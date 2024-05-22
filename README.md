@@ -1,0 +1,1 @@
+#To run: I use VSCode and Command Line with my Windows Machine: Just type or copy this in commandLine without "": "go run filename.go"  Note: I aslo include a test area for testing with print statement pls delete if it bothers.
